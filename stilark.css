@@ -1,0 +1,25 @@
+.innpakning {
+    width: 800px; /* innpakningens bredde */
+    background-color: #404040; /* en mørk gråfarge */
+    margin: auto; /* angir at vi vil bruke flexbox */
+    flex-direction: column; /* plassere bokser i en kolonne */
+}
+
+.topptekst {
+    height: 120px; /* overskrift/toppteksthøyde */
+    background-color: "909090; /* en lys grå farge */
+    padding: 5px; /* avstand mellom bokskant og innhold */
+    margin: 5px; /* luft rundt overskrift-/topptekstboks */
+}
+
+.meny {
+    background-color: #f04606; /* oransje farge */
+    padding: 5px /* avstand mellom bokskant og innhold */
+    marging: 5px; /* luft rundt meny boks */
+}
+
+.innhold {
+    background-color_ #909090; /* en lys gråfarge */
+    padding: 5px; /* avstand mellom bokskant og innhold */
+    margin: 5px; /* luft rundt innholdsboks */
+}
